@@ -37,7 +37,7 @@ Link: https://cocoapods.org/
 
 ## How do I get the app working?
 
-Good question! The code is released free of charge. I have documented how to get the app working on CheekyFactor.com as premium content. To view this content you will need to register for a goPro account (it's only $2.95 a month), and this document explains how to get the environment ready, how to customize the App to your needs and more importantly, how to get your stream onto the App.
+Good question! The code is released free of charge. I have documented how to get the app working on CheekyFactor.com as premium content. To view this content you will need to register for a goPro account (it's only $2.95 a month), and this document explains how to get the environment ready, how to customize the App to your needs and more importantly, how to get your stream onto the App. Details can be found at http://cheekyfactor.com/2019/02/03/cheeky-radio-pro-the-instructions/
 
 If you are not a technical person, I am more than happy to help you out. Please contact me via the CheekyFactor.com contacts page. I charge $250 a day for developing apps.
 
